@@ -99,7 +99,7 @@ streamlit run streamlit_app.py
 
 ## 🛠️ Tech Stack
 
-- **Python 3.12**
+- **Python 3.11**
 - **TensorFlow / Keras** — model building and training
 - **NumPy / Pillow** — image processing
 - **Matplotlib** — training history visualization
